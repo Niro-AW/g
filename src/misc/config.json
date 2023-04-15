@@ -1,0 +1,25 @@
+{
+  "bot_token": "<discord bot token here>",
+  "activity": {
+    "activities": [
+      {
+        "name": "AI BOT",
+        "type": 0
+      }
+    ],
+    "status": "online"
+  },
+  "chat": {
+    "url": "http://api.brainshop.ai/get",
+    "brainID": "174267",
+    "key": "X5mvSWQdVhGwqVVw"
+  },
+  "misc": {
+    "channels": [
+      "1092883259525955834",
+      "1096702194478223371"
+    ],
+    "noMention": false,
+    "directMessage": true
+  }
+}
